@@ -1,18 +1,19 @@
 h1{
 font-size: 40px;
 text-align: center;
-color: #de7472
+color: #de7472;
+font-weight: bold;
 }
 
 p{
 font-size: 30px;
-text-align: left;
+text-align: justify;
 font-family: Helvetica, sans-serif;
 font-weight: bold;
 }
 
 body {
-background-color: #007471;
+background-color: #e1f5e9;
 }
 
 .image {
